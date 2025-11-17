@@ -26,13 +26,13 @@ Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 
 | Tecnología | Ahorro energético | Reducción de residuos | Mejora operativa | Riesgos/limitaciones |
 |-----------|-------------------|-----------------------|------------------|----------------------|
-| IA | | | | |
-| IoT | | | | |
-| Big Data | | | | |
-| Cloud | | | | |
-| Blockchain | | | | |
-| Ciberseguridad | | | | |
-| RA/RV | | | | |
+| IA | Optimiza rutas de conducción y eficiencia de batería|Reduce accidentes y consumo | Conducción más segura y eficiente| Requiere datos masivos y sensores fiables|
+| IoT | Monitoreo de consumo de energía y estado de baterías| Evita desperdicio de recursos| Mantenimiento predictivo | Riesgo de hackeo de sistemas conectados|
+| Big Data | Análisis de eficiencia y comportamiento del vehículo| Optimiza uso de recursos y evita sobreproducción | Mejora continua del producto | Necesidad de almacenamiento y procesamiento robusto|
+| Cloud | OTA y almacenamiento de datos| Reduce necesidad de infraestructura física| Actualizaciones rápidas y escalables| Dependencia del proveedor de nube|
+| Blockchain | Registro de componentes y contratos inteligentes | Evita fraude en la cadena de suministro| Trazabilidad fiable y eficiente| Consumo energético si se usa PoW|
+| Ciberseguridad | Protege vehículos y datos críticos | Evita pérdidas financieras y de reputación | Confianza del cliente y continuidad operativa| Coste de implementación y actualización constante|
+| RA/RV | Simulación virtual de uso y showroom | Reduce necesidad de pruebas físicas | Mejora experiencia de compra| Requiere desarrollo y hardware especializado|
 
 ---
 
