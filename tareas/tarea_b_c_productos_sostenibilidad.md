@@ -12,10 +12,10 @@ Debes basarte en una aplicación real encontrada en noticias o informes.
 | Tecnología | Producto/servicio digital | Caso real encontrado (enlace) | Beneficio para el cliente | Beneficio para la empresa |
 |-----------|----------------------------|-------------------------------|----------------------------|---------------------------|
 | IA | Conducción autónoma y asistente de conducción (Autopilot) | [Tesla Autopilot](https://www.tesla.com/fsd)| Mayor seguridad y comodidad | Mejora innovación y competitividad|
-| IoT | Conectividad de vehículos y monitorización de baterías| Tesla IoT | Control remoto y diagnóstico en tiempo real | Optimización de mantenimiento y eficiencia |
+| IoT | Conectividad de vehículos y monitorización de baterías| [Tesla IoT]() | Control remoto y diagnóstico en tiempo real | Optimización de mantenimiento y eficiencia |
 | Big Data | Análisis de comportamiento de conducción y eficiencia energética| Tesla Big Data| Personalización de recomendaciones y alertas | Mejora de productos y estrategias de producción |
-| Cloud Computing | Almacenamiento de datos de vehículos y software OTA| Tesla Cloud | Actualizaciones remotas y mejoras continuas | Reduce infraestructura física, permite escalabilidad|
-| Blockchain | Trazabilidad de componentes y contratos inteligentes para baterías| Blockchain en automoción | Transparencia en suministro y calidad| Reduce fraudes y asegura trazabilidad de piezas|
+| Cloud Computing | Almacenamiento de datos de vehículos y software OTA| [Tesla Cloud](https://www.tesla.com/support/software-updates) | Actualizaciones remotas y mejoras continuas | Reduce infraestructura física, permite escalabilidad|
+| Blockchain | Trazabilidad de componentes y contratos inteligentes para baterías| [Blockchain en automoción](https://www.ibm.com/think) | Transparencia en suministro y calidad| Reduce fraudes y asegura trazabilidad de piezas|
 | Ciberseguridad | Protección de vehículos y datos del usuario | Tesla Cybersecurity | Seguridad de vehículos y privacidad | Evita ataques y pérdidas económicas|
 | RA/RV | Simulador de experiencia de conducción y showroom virtual| Tesla Virtual Showroom| Prueba de vehículos sin acudir físicamente | Incrementa ventas y reduce necesidad de espacio físico |
 
