@@ -12,11 +12,11 @@ Debes basarte en una aplicación real encontrada en noticias o informes.
 | Tecnología | Producto/servicio digital | Caso real encontrado (enlace) | Beneficio para el cliente | Beneficio para la empresa |
 |-----------|----------------------------|-------------------------------|----------------------------|---------------------------|
 | IA | Conducción autónoma y asistente de conducción (Autopilot) | [Tesla Autopilot](https://www.tesla.com/fsd)| Mayor seguridad y comodidad | Mejora innovación y competitividad|
-| IoT | Conectividad de vehículos y monitorización de baterías| [Tesla IoT](https://analyticssteps.com/blogs/iot-tesla-applications-benefits-and-potential-risks?utm_source=chatgpt.com) | Control remoto y diagnóstico en tiempo real | Optimización de mantenimiento y eficiencia |
-| Big Data | Análisis de comportamiento de conducción y eficiencia energética| [Tesla Big Data](https://supplychain360.io/tesla-supply-chain-big-data-and-ai-in-action/?utm_source=chatgpt.com)| Personalización de recomendaciones y alertas | Mejora de productos y estrategias de producción |
+| IoT | Conectividad de vehículos y monitorización de baterías| [Tesla IoT](https://analyticssteps.com/blogs/iot-tesla-applications-benefits-and-potential-risks?) | Control remoto y diagnóstico en tiempo real | Optimización de mantenimiento y eficiencia |
+| Big Data | Análisis de comportamiento de conducción y eficiencia energética| [Tesla Big Data](https://supplychain360.io/tesla-supply-chain-big-data-and-ai-in-action/?)| Personalización de recomendaciones y alertas | Mejora de productos y estrategias de producción |
 | Cloud Computing | Almacenamiento de datos de vehículos y software OTA| [Tesla Cloud](https://www.tesla.com/support/software-updates) | Actualizaciones remotas y mejoras continuas | Reduce infraestructura física, permite escalabilidad|
 | Blockchain | Trazabilidad de componentes y contratos inteligentes para baterías| [Blockchain en automoción](https://www.ibm.com/think) | Transparencia en suministro y calidad| Reduce fraudes y asegura trazabilidad de piezas|
-| Ciberseguridad | Protección de vehículos y datos del usuario | [Tesla Cybersecurity](https://www.elastiflow.com/blog/posts/lessons-from-the-tesla-data-breach?utm_source=chatgpt.com) | Seguridad de vehículos y privacidad | Evita ataques y pérdidas económicas|
+| Ciberseguridad | Protección de vehículos y datos del usuario | [Tesla Cybersecurity](https://www.elastiflow.com/blog/posts/lessons-from-the-tesla-data-breach?) | Seguridad de vehículos y privacidad | Evita ataques y pérdidas económicas|
 | RA/RV | Simulador de experiencia de conducción y showroom virtual| [Tesla Virtual Showroom](https://deovr.com/2hczs4)| Prueba de vehículos sin acudir físicamente | Incrementa ventas y reduce necesidad de espacio físico |
 
 ---
