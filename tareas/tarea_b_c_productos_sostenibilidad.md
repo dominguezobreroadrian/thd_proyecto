@@ -2,9 +2,9 @@
 
 ## 🏢 Empresa seleccionada
 Breve descripción de la empresa real o ficticia.
-
+Nombre: Tesla, Inc.
+Descripción: Empresa estadounidense de automoción y energía, líder en vehículos eléctricos, baterías, paneles solares y soluciones de energía renovable. Se centra en la innovación tecnológica para movilidad y sostenibilidad.
 ---
-
 ## 🧩 Relación entre THD y productos/servicios
 Explica cómo la empresa podría usar cada tecnología para crear o mejorar un servicio digital.
 Debes basarte en una aplicación real encontrada en noticias o informes.
