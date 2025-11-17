@@ -39,20 +39,44 @@ Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 ## 🔍 Investigación de casos reales (obligatoria)
 Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
-- Caso IA:
-- Caso IoT:
-- Caso Big Data:
-- Caso Cloud:
-- Caso Blockchain:
-- Caso Ciberseguridad:
-- Caso RA/RV:
+- Caso IA: Tesla Autopilot → Conducción autónoma y asistente de conducción. Aplicable para mejorar seguridad y eficiencia de flota en la empresa
+- Caso IoT: Tesla IoT → Conectividad y monitorización de baterías. Adaptable a control remoto de productos y eficiencia operativa.
+- Caso Big Data: Tesla → Análisis de comportamiento de conducción y eficiencia energética. Sirve para personalizar servicios y optimizar producción.
+- Caso Cloud: Tesla Cloud → Software OTA y almacenamiento de datos. Permite actualizaciones remotas y escalabilidad de servicios.
+- Caso Blockchain: Uso en automoción para trazabilidad de componentes → Mejora control de proveedores y transparencia.
+- Caso Ciberseguridad: Tesla Cybersecurity → Protección de datos de vehículos y clientes. Esencial para confianza del cliente y continuidad.
+- Caso RA/RV: Tesla Virtual Showroom → Prueba virtual de vehículos. Aumenta ventas y reduce necesidad de showroom físico.
 
 ---
 
 ## 🧠 Reflexión final
 - ¿Qué tecnología aporta más valor a los productos/servicios?
+  - IA (Autopilot), por su impacto directo en seguridad y experiencia del cliente.
 - ¿Cuál genera mayor impacto sostenible?
+  - IoT y Big Data, al reducir desperdicios y optimizar eficiencia energética. 
 - ¿Qué combinación sería más eficiente para la empresa?
+  - IA + IoT + Cloud + Big Data, para vehículos inteligentes, eficientes y siempre actualizados.
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+
+AnalyticsSteps – IoT in Tesla: Applications, Benefits and Potential Risks
+https://analyticssteps.com/blogs/iot-tesla-applications-benefits-and-potential-risks/
+
+SupplyChain360 – Tesla Supply Chain: Big Data and AI in Action
+https://supplychain360.io/tesla-supply-chain-big-data-and-ai-in-action/
+
+Twingate – Tesla Data Breach: What & How It Happened?
+https://www.twingate.com/blog/tips/Tesla-data-breach
+
+Elastiflow – Tesla Data Breach: Key Lessons for Strengthening Your Cybersecurity
+https://www.elastiflow.com/blog/posts/lessons-from-the-tesla-data-breach
+
+LookThru – Tesla Model 3 Virtual Tour
+https://lookthru.com.au/tesla-model-3-virtual-tour/
+
+Deovr – Tesla Model X & Y VR 8K 180° Experience
+https://deovr.com/qzy28t
+
+Tesla – Consulta virtual con Tesla (Virtual Consultation)
+https://www.tesla.com/es_es/request-virtual-consultation
