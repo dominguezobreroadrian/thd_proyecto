@@ -11,13 +11,13 @@ Debes basarte en una aplicación real encontrada en noticias o informes.
 
 | Tecnología | Producto/servicio digital | Caso real encontrado (enlace) | Beneficio para el cliente | Beneficio para la empresa |
 |-----------|----------------------------|-------------------------------|----------------------------|---------------------------|
-| IA | Conducción autónoma y asistente de conducción (Autopilot) | | | |
-| IoT | | | | |
-| Big Data | | | | |
-| Cloud Computing | | | | |
-| Blockchain | | | | |
-| Ciberseguridad | | | | |
-| RA/RV | | | | |
+| IA | Conducción autónoma y asistente de conducción (Autopilot) | Tesla Autopilot| Mayor seguridad y comodidad | Mejora innovación y competitividad|
+| IoT | Conectividad de vehículos y monitorización de baterías| Tesla IoT | Control remoto y diagnóstico en tiempo real | Optimización de mantenimiento y eficiencia |
+| Big Data | Análisis de comportamiento de conducción y eficiencia energética| Tesla Big Data| Personalización de recomendaciones y alertas | Mejora de productos y estrategias de producción |
+| Cloud Computing | Almacenamiento de datos de vehículos y software OTA| | | |
+| Blockchain | Trazabilidad de componentes y contratos inteligentes para baterías| | | |
+| Ciberseguridad | Protección de vehículos y datos del usuario | | | |
+| RA/RV | Simulador de experiencia de conducción y showroom virtual| Tesla Virtual Showroom| | |
 
 ---
 
