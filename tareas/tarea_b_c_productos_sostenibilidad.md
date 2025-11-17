@@ -11,7 +11,7 @@ Debes basarte en una aplicación real encontrada en noticias o informes.
 
 | Tecnología | Producto/servicio digital | Caso real encontrado (enlace) | Beneficio para el cliente | Beneficio para la empresa |
 |-----------|----------------------------|-------------------------------|----------------------------|---------------------------|
-| IA | | | | |
+| IA | Conducción autónoma y asistente de conducción (Autopilot) | | | |
 | IoT | | | | |
 | Big Data | | | | |
 | Cloud Computing | | | | |
