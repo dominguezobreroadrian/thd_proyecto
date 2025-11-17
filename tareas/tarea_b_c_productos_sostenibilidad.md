@@ -60,23 +60,16 @@ Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
 
-AnalyticsSteps – IoT in Tesla: Applications, Benefits and Potential Risks
 https://analyticssteps.com/blogs/iot-tesla-applications-benefits-and-potential-risks/
 
-SupplyChain360 – Tesla Supply Chain: Big Data and AI in Action
 https://supplychain360.io/tesla-supply-chain-big-data-and-ai-in-action/
 
-Twingate – Tesla Data Breach: What & How It Happened?
 https://www.twingate.com/blog/tips/Tesla-data-breach
 
-Elastiflow – Tesla Data Breach: Key Lessons for Strengthening Your Cybersecurity
 https://www.elastiflow.com/blog/posts/lessons-from-the-tesla-data-breach
 
-LookThru – Tesla Model 3 Virtual Tour
 https://lookthru.com.au/tesla-model-3-virtual-tour/
 
-Deovr – Tesla Model X & Y VR 8K 180° Experience
 https://deovr.com/qzy28t
 
-Tesla – Consulta virtual con Tesla (Virtual Consultation)
 https://www.tesla.com/es_es/request-virtual-consultation
