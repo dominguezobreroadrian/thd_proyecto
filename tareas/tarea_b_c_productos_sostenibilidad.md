@@ -70,6 +70,6 @@ https://www.elastiflow.com/blog/posts/lessons-from-the-tesla-data-breach
 
 https://lookthru.com.au/tesla-model-3-virtual-tour/
 
-https://deovr.com/qzy28t
+https://deovr.com/2hczs4
 
 https://www.tesla.com/es_es/request-virtual-consultation
